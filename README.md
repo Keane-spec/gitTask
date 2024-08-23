@@ -1,17 +1,17 @@
 # Project Name
 
 ## Description
-A brief, clear description of your project. Explain what it does, why it’s important, and how it can be useful.
+This is a readme task to help me understanding how to commit, push and pull
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
-- [License](#license)
+- [Installation] use git clone
+- [Usage]-non
+- [Screenshots]- Are provided in the file
+- [Credits]- A friend named justin helped me on understanding how to use git and what it is used for
+- [License]
 
 ## Installation
-Provide instructions for how to install and set up your project locally. For example:
+Use git clone to clone my work from my remote repo to your remote repo.
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
