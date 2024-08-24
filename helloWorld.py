@@ -1,3 +1,4 @@
+# This code waa to test if i was using git correctly
 'print("Git is awesome!")' 
 
 # Accept input from the user
