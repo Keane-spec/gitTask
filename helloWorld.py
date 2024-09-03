@@ -1,8 +1,8 @@
-# This code waa to test if i was using git correctly
+# This code was to test if i was using git correctly
 'print("Git is awesome!")' 
 
-# Accept input from the user
-user_input = input("Please enter some text: ")
+# Accept input from the users
+users_input = input("Please enter some text: ")
 
 # Print the inputted data
-print("You entered:", user_input)
+print("You entered:", users_input)
